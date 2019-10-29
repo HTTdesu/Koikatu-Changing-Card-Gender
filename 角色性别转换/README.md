@@ -1,2 +1,0 @@
-# Koikatu-Changing-Card-Gender
-This is a simple tool used to change the gender of your character card of Koikatu. A strict mode of detecting the card was used in past, but along with the issues that were reported by users that it was failed on some cards, I commited the strict rule. A more "casual" rule was used now, which means an increasing on risk of destory the card. If you want to re-on the strict mode, go to core.cs and find those commits and delete them.
