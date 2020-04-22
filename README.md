@@ -1,6 +1,7 @@
 # Koikatu-Changing-Card-Gender
 This is a simple tool used to change the gender of your character card of Koikatu. A new card with the gender that you ordered will be generated at the path that you allocated. Then you can move it to the corresponded folder.
-![preview](https://github.com/HTTdesu/Koikatu-Changing-Card-Gender/blob/master/preview/preview.png)
+
+![preview](https://raw.githubusercontent.com/HTTdesu/Koikatu-Changing-Card-Gender/master/preview/preview.png)
 1. Choose your card.
 2. Choose the directory(path) where you want to save the card. And write a filename(suffix can be omitted). If you don't want to write a filename, a defaulte filename will be used. Just click "确认".
 3. Choose the gender you want. Note that this step WILL NOT make any change to your original card.
