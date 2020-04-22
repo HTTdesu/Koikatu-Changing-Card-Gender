@@ -67,15 +67,14 @@ namespace Tool
                 this.index += keywords.Length;
 
                 // A problem has been found that some plugins will add extra bytes behind the sex parameter
-                // So, if you are facing such problem, which means your character card was wrongly judged
-                // Commit out the if below, also and a break
-                // Remember, this will increase the risk of destroing your card
+                // So, if you are facing such a problem, which means that your character card was wrongly judged
+                // Commit out the 'if' below, also and a break
+                // Remember, this will increase the risk of destroing your new card
 
-                /*if(this.MagicCheck(data, this.index + 1, checkTail))
+                if(this.MagicCheck(data, this.index + 1, checkTail))
                 {
                     break;
-                }*/
-                break;
+                }
             }
 
             this.data = data;
