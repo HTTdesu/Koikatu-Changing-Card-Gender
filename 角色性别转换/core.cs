@@ -71,10 +71,11 @@ namespace Tool
                 // Commit out the 'if' below, also and a break
                 // Remember, this will increase the risk of destroing your new card
 
-                if(this.MagicCheck(data, this.index + 1, checkTail))
+                /*if(this.MagicCheck(data, this.index + 1, checkTail))
                 {
                     break;
-                }
+                }*/
+                break;
             }
 
             this.data = data;
